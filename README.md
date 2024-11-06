@@ -1,2 +1,2 @@
 # statistics-
-Projects and On-Going Learning in Statistics and Machine Learning
+Projects, On-Going Learning and Refreshers in Statistics and Machine Learning
