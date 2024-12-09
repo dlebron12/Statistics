@@ -10,9 +10,9 @@ library(ssizeRNA)
 # fold change for each gene fc = 2 
 
 size_out <- ssizeRNA_single(nGenes = 10000,
-							pi0 = 0.8,
-							fdr = 0.05,
-							mu = 10,
-							disp = 0.1,
-							fc = 2)
+			    pi0 = 0.8,
+			    fdr = 0.05,
+			    mu = 10,
+			    disp = 0.1,
+			    fc = 2)
 							
