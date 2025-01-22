@@ -1,0 +1,5 @@
+Note on TensorFlow:
+
+For MACOS TensorFlow must be installed like this to avoid kernel interruption in Jupyter Notebook
+
+`python -m pip install tensorflow-macos`
